@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.bfe32842.css",
-    "main.js": "/static/js/main.aa293b66.js",
-    "static/js/488.2c0eeed6.chunk.js": "/static/js/488.2c0eeed6.chunk.js",
-    "static/media/footer-bg.webp": "/static/media/footer-bg.d3a42c152ec95992c921.webp",
-    "static/media/academic-bg.webp": "/static/media/academic-bg.09908c29b21aff30ec5a.webp",
-    "static/media/studybg.webp": "/static/media/studybg.8e7539aed95a6214a0b4.webp",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.bfe32842.css.map": "/static/css/main.bfe32842.css.map",
-    "main.aa293b66.js.map": "/static/js/main.aa293b66.js.map",
-    "488.2c0eeed6.chunk.js.map": "/static/js/488.2c0eeed6.chunk.js.map"
+    "main.css": "/vvsb/static/css/main.b665843f.css",
+    "main.js": "/vvsb/static/js/main.db325ed4.js",
+    "static/js/488.2c0eeed6.chunk.js": "/vvsb/static/js/488.2c0eeed6.chunk.js",
+    "static/media/footer-bg.webp": "/vvsb/static/media/footer-bg.d3a42c152ec95992c921.webp",
+    "static/media/academic-bg.webp": "/vvsb/static/media/academic-bg.09908c29b21aff30ec5a.webp",
+    "static/media/page-bnr.webp": "/vvsb/static/media/page-bnr.2dc1741353025235fdf5.webp",
+    "static/media/slick.svg": "/vvsb/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/vvsb/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/vvsb/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/vvsb/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/vvsb/index.html",
+    "main.b665843f.css.map": "/vvsb/static/css/main.b665843f.css.map",
+    "main.db325ed4.js.map": "/vvsb/static/js/main.db325ed4.js.map",
+    "488.2c0eeed6.chunk.js.map": "/vvsb/static/js/488.2c0eeed6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfe32842.css",
-    "static/js/main.aa293b66.js"
+    "static/css/main.b665843f.css",
+    "static/js/main.db325ed4.js"
   ]
 }
